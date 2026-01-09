@@ -1,6 +1,5 @@
 # Python-Data-Transform
 
-# Python Data Transformation Project
 
 ## Overview
 This project demonstrates a simple data pipeline step where raw CSV data is ingested,
